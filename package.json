@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repositoty": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonKleiman/chatAppPractice.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
